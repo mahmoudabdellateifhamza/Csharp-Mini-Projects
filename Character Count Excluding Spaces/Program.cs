@@ -10,9 +10,9 @@ class Program
         string choice;
 
         Console.WriteLine("=================================================");
-        Console.WriteLine("       Character Counter \U0001F970");
+        Console.WriteLine("       Character Count Excluding Spaces \U0001F970");
         Console.WriteLine("=================================================");
-        Console.WriteLine("Welcome to the Character Counter ");
+        Console.WriteLine("Welcome to the Character Count Excluding Spaces ");
         Console.WriteLine();
 
         do
